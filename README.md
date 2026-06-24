@@ -1,1 +1,2 @@
 # Multimodal-Fraud-Detection-System
+A master's practicum project focused on detecting fraudulent and misleading online marketplace listings through the analysis of both product images and textual descriptions. The system explores multimodal machine learning techniques, image-text consistency checking, and anomaly detection methods to identify suspicious listings and improve trust and safety within digital marketplaces.
